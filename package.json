@@ -18,5 +18,13 @@
   "homepage": "https://github.com/ShubhamSarkarFrost/WebdriverIO#readme",
   "dependencies": {
     "@wdio/cli": "^7.16.12"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.16.12",
+    "@wdio/mocha-framework": "^7.16.11",
+    "@wdio/spec-reporter": "^7.16.11",
+    "chromedriver": "^96.0.0",
+    "wdio-chromedriver-service": "^7.2.3",
+    "@wdio/sync": "7.6.1"
   }
 }
